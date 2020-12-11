@@ -1,0 +1,12 @@
+{
+  "name": "DeclineBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/relay3r-network/DeclineBot",
+  "author": "akshaynexus <akshaycm@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^8.2.1",
+    "telegram-bot-api": "^2.0.1"
+  }
+}
